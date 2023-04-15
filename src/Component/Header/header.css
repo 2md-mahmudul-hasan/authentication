@@ -1,0 +1,8 @@
+.header a {
+  padding: 5px 10px;
+  margin-right: 5px;
+  text-decoration: none;
+  color: #fff;
+  background-color: rgb(56, 53, 53);
+  border-radius: 5px;
+}
